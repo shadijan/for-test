@@ -1,1 +1,6 @@
 write
+black
+blue
+color
+
+
