@@ -2,5 +2,6 @@ write
 black
 blue
 color
+khodam
 
 
